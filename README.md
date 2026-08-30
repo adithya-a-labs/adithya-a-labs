@@ -6,12 +6,6 @@ I enjoy working on engineering problems that sit across multiple layers — from
 
 A lot of my recent work has focused on building systems end-to-end, understanding how they fail, and making them more reliable in real-world environments.
 
----# Hey, I'm Adithya 👋
-
-> ECE undergraduate at NIT Calicut building across **AI systems, open source, robotics, and intelligent software**.
-
-I like working on systems end-to-end — from retrieval pipelines and backend infrastructure to product interfaces, computer vision, and embedded systems.
-
 ---
 
 ## 🚀 Selected Work
