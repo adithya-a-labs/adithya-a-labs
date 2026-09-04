@@ -98,15 +98,49 @@ Built a full-stack story-to-visual workflow with scene extraction, image prompti
 
 ---
 
-## 🛠️ Tech
+## 🧰 Tech Stack
 
-**Languages:** `Python` · `C` · `C++` · `JavaScript` · `TypeScript` · `SQL`
+<div align="center">
 
-**AI & ML:** `RAG` · `Agentic Workflows` · `LLM Orchestration` · `PyTorch` · `Scikit-learn` · `OCR`
+### 💻 Languages
 
-**Full-Stack & Infra:** `React` · `FastAPI` · `Node.js` · `Express.js` · `PostgreSQL` · `Qdrant` · `Supabase` · `Docker`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Robotics & CV:** `OpenCV` · `MediaPipe` · `Arduino` · `ESP32` · `ROS2` · `Gazebo`
+### 🤖 AI & ML
+
+![RAG](https://img.shields.io/badge/RAG-7B61FF?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-FF6B6B?style=for-the-badge&logo=probot&logoColor=white)
+![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-6C5CE7?style=for-the-badge&logo=openai&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-00B894?style=for-the-badge&logo=googledocs&logoColor=white)
+
+### 🌐 Full-Stack & Infra
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🤖 Robotics & Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white)
+
+</div>
 
 ---
 
