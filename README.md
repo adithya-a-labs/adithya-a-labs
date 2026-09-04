@@ -146,10 +146,20 @@ Built a full-stack story-to-visual workflow with scene extraction, image prompti
 
 ## 🌐 Find me
 
-[LinkedIn](https://linkedin.com/in/adithya-a-engineering) ·
-[GitHub](https://github.com/adithya-a-labs) ·
-[Email](mailto:adithya.a.builds@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adithya-a-engineering)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adithya-a-labs)
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithya.a.builds@gmail.com)
+
+</div>
 
 ---
 
-<sub>Building across software, intelligence, and hardware.</sub>
+<div align="center">
+
+### Building across software, intelligence, and hardware.
+
+</div>
