@@ -84,6 +84,20 @@ Built a full-stack story-to-visual workflow with scene extraction, image prompti
 
 ---
 
+---
+
+## 🚀 My GitHub in Space
+
+<p align="center">
+  <img src="./game.gif" width="850">
+</p>
+
+<p align="center">
+  <i>Every contribution becomes a target. Every commit fires a shot.</i>
+</p>
+
+---
+
 ## 🛠️ Tech
 
 **Languages:** `Python` · `C` · `C++` · `JavaScript` · `TypeScript` · `SQL`
